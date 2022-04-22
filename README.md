@@ -61,6 +61,7 @@ THEN I am taken to the corresponding section of the README
 * GitHub username
 * email address
   * add entitled Questions, with instructions on how to reach me with additional questions with gitHub and email address
+* creat the PROFESSIONAL-README.md file
 
 
 ## Getting Started
