@@ -76,3 +76,8 @@ Here are some guidelines to help you get started:
 
 Uses the link below to watch the video:  
   [Professional README Generator Demo](https://drive.google.com/file/d/17ErahXt8WRUh8QgWa1WXKXV7Pya4fXMi/view)
+  
+  
+*  GitHub repository name: Good-README-Generator-April21
+*  The URL to the website is: https://saghar-b.github.io/Good-README-Generator-April21/
+*  The URL of the GitHub repository : https://github.com/saghar-b/Good-README-Generator-April21
